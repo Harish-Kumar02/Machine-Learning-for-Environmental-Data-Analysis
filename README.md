@@ -1,4 +1,4 @@
-# 📊 Data Science & Machine Learning Portfolio
+# Machine-Learning-for-Environmental-Data-Analysis
 
 This repository contains hands-on projects demonstrating end-to-end data science workflows, including data cleaning, exploratory analysis, feature engineering, predictive modeling, and reinforcement learning.
 
